@@ -2,7 +2,7 @@
 
 **`WIP`**
 
-En este repositorio se encuentran los problemas realizados para practicar prigramación competitiva.
+En este repositorio se encuentran los problemas realizados para practicar programación competitiva.
 
 ## Estilos y Guías
 
