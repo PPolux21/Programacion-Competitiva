@@ -1,4 +1,4 @@
-# Wallet Exchange
+# [Wallet Exchange](https://codeforces.com/problemset/problem/1919/A)
 
 - time limit per test: 1 second
 - memory limit per test: 256 megabytes
@@ -7,7 +7,7 @@
 
 ## Problem
 
-Alice and Bob are bored, so they decide to play a game with their wallets. Alice has a coins in her wallet, while Bob has b coins in his wallet.
+Alice and Bob are bored, so they decide to play a game with their wallets. Alice has **a** coins in her wallet, while Bob has **b** coins in his wallet.
 
 Both players take turns playing, with Alice making the first move. In each turn, the player will perform the following steps in order:
 
